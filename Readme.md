@@ -105,7 +105,7 @@ npm install
 **Frontend `.env`**
 VITE_APP_NAME=GreenCart Logistics
 VITE_APP_VERSION=1.0.0
-VITE_API_BASE_URL=[http://localhost:3000/dashboard]
+VITE_API_BASE_URL=http://localhost:5000/api(http://localhost:3000/dashboard)
 
 
 
