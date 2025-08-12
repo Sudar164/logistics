@@ -80,7 +80,7 @@ greencart-logistics/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/greencart-logistics.git
+git clone https://github.com/Sudar164/greencart-logistics.git
 cd greencart-logistics
 
 
