@@ -131,21 +131,6 @@ npm start
 
 ---
 
-## 📊 Screenshots
-
-> Replace placeholders with real screenshots
-
-### Dashboard
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
-
-### Simulation
-![Simulation Screenshot](docs/screenshots/simulation.png)
-
-### Login & Register
-![Auth Pages Screenshot](docs/screenshots/auth.png)
-
----
-
 ## 🧩 API Endpoints
 
 ### Drivers
