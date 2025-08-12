@@ -167,7 +167,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 💡 Author
-Created and maintained by **Your Name** • [GitHub Profile](https://github.com/your-username)
+Created and maintained by Sudaroli G • [GitHub Profile](https://github.com/Sudar164)
 
 
 
