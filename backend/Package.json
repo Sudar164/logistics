@@ -21,6 +21,9 @@
     "helmet": "^7.0.0",
     "express-rate-limit": "^6.10.0"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1",
     "jest": "^29.6.2",
